@@ -127,12 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="JsonService.cpp" />
     <ClCompile Include="Weather.cpp" />
     <ClCompile Include="WeatherService.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="JsonService.h" />
     <ClInclude Include="Service.h" />
     <ClInclude Include="Weather.h" />
   </ItemGroup>
