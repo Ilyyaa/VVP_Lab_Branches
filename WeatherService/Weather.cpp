@@ -15,6 +15,7 @@ std::ostream& Weather::operator<<(std::ostream& out)
 	out << weather << std::endl;
 	out << windSpeed << std::endl;
 	out << clouds << std::endl;
+	return out;
 }
 
 
